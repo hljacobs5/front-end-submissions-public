@@ -82,8 +82,8 @@ Add a label of the homework with a link to the gist/repo/..etc for each homework
 
 ### Haley Jacobs
 
-* [Node Server Tutorial]()
-* [Express Tutorial]() - What additional items did you work on?
+* [Node Server Tutorial](https://github.com/hljacobs5/node-prework)
+* [Express Tutorial](https://github.com/hljacobs5/Express) - What additional items did you work on?
 * [Promise Practice Exercises]()
 
 ### Jessica Erickson
